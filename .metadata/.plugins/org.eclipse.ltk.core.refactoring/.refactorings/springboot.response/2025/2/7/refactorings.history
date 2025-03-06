@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.springboot.jpa&apos; to &apos;com.springboot.response&apos;&#x0D;&#x0A;- Original project: &apos;springboot.response&apos;&#x0D;&#x0A;- Original element: &apos;springboot.response/src/main/java/com.springboot.jpa&apos;&#x0D;&#x0A;- Renamed element: &apos;springboot.response/src/main/java/com.springboot.response&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.springboot.jpa&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.springboot.jpa" name="com.springboot.response" qualified="false" references="true" stamp="1739174896384" textual="false" version="1.0"/>
+</session>
