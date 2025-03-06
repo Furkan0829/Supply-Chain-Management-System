@@ -1,0 +1,36 @@
+# Ensure Java is detected correctly
+*.java linguist-detectable=true
+*.xml linguist-detectable=true
+
+# Ignore build, minified, and dependency files from language stats
+*.lock linguist-vendored
+*.min.js linguist-vendored
+*.map linguist-vendored
+*.class linguist-vendored
+*.jar linguist-vendored
+*.war linguist-vendored
+*.ear linguist-vendored
+node_modules/** linguist-vendored
+vendor/** linguist-vendored
+target/** linguist-vendored
+bin/** linguist-vendored
+
+# Ignore documentation and config files
+*.md linguist-vendored
+*.txt linguist-vendored
+*.json linguist-vendored
+*.yaml linguist-vendored
+*.yml linguist-vendored
+*.properties linguist-vendored
+
+# Force specific languages for certain file types
+*.jsp linguist-language=Java
+*.jsx linguist-language=JavaScript
+*.tsx linguist-language=TypeScript
+*.sh linguist-language=Shell
+
+# Exclude IDE-specific files (Eclipse, IntelliJ, VS Code)
+*.iml linguist-vendored
+*.idea/** linguist-vendored
+.vscode/** linguist-vendored
+.metadata/** linguist-vendored
