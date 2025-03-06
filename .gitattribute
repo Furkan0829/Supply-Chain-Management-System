@@ -1,3 +1,5 @@
 *.java linguist-detectable=true
 *.lock linguist-vendored
 *.min.js linguist-vendored
+*.json linguist-vendored
+*.xml linguist-vendored
