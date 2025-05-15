@@ -25,7 +25,7 @@ add four dependencies while creating <br>
 4️⃣ Spring Boot DevTools (Optional, but Recommended) ⚡ <br>
 
 Clone the Repository <br>
-->git clone https://github.com/your-username/Supply-Management-System.git <br>
+->git clone https://github.com/Furkan0829/Supply-Management-System.git <br>
 ->cd Supply-Management-System
 
 Configure Database <br>
